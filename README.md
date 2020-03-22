@@ -1,2 +1,5 @@
-# react-webpack-starter
-A starter template for a React project with Webpack
+# React Webpack Starter
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5ZOMO)
+
+[Blog Post](https://akhilaariyachandra.com/post/getting-started-in-react-with-webpack)
